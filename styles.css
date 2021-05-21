@@ -323,7 +323,9 @@ section{
     font-weight: 700;
     margin: 10px;
 }
-
+.work{
+    background: #8C489F;
+}
 .work .content{
     display:flex;
     justify-content: center;
